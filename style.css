@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(15, 13, 26);
+}
+
+a {
+    color: rgb(231, 220, 57);
+}
+
+.clear {
+    clear: both;
+}
+
+.container {
+    display: inline-block;
+    max-width: 1920px;
+    width: 100%;
+    height: 900px;
+    background-size: contain;
+}
+
+.container h2 {
+    color: white;
+    text-align: center;
+    margin-top: 60px;
+    font-size: 48px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box-1 {
+    width: 60%;
+    height: 700px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.parte-1 {
+    width: 50%;
+    height: 50%;
+    float: left;
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c8641c0e-e177-415e-a8f6-177cb3f296b2/dexgoh0-71653db9-d5d0-4c95-a0c3-3e4bcf5a406d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4NjQxYzBlLWUxNzctNDE1ZS1hOGY2LTE3N2NiM2YyOTZiMlwvZGV4Z29oMC03MTY1M2RiOS1kNWQwLTRjOTUtYTBjMy0zZTRiY2Y1YTQwNmQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.goio3Y5xjw-GZd05XXBW4w63AsrS9naEHVQhmLUm7Lo);
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.texto {
+    margin-top: 450px;
+    margin-left: 20px;
+}
+
+.texto h2 {
+    font-size: 26px;
+}
+
+.texto p {
+    color: white;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.parte-2 {
+    width: 47%;
+    height: 700px;
+    float: right;
+}
+
+.parte-2 h2 {
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.parte-2 p {
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.parte-2 form {
+    margin-top: 20px;
+}
+
+.parte-2 form p {
+    font-size: 16px;
+    text-align: left;
+    padding: 5px 0;
+    margin-left: 70px;
+}
+
+.parte-2 input[type=text] {
+    width: 75%;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 70px;
+    padding: 0 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(231, 220, 57);
+    opacity: 70%;
+}
+
+.parte-2 input[type=email] {
+    width: 75%;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 70px;
+    padding: 0 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(231, 220, 57);
+    opacity: 70%;
+}
+
+.parte-2 input[type=submit] {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 80px;
+    width: 300px;
+    height: 45px;
+    color: white;
+    background-color: rgb(124, 31, 128);
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    border-radius: 60px;
+    cursor: pointer;
+}
