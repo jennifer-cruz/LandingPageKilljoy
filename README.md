@@ -1,4 +1,4 @@
-# LandingPageKilljoy
+# Landing Page Killjoy
 
 Esse projeto foi criado para estudos e entendimento em como construir uma Lading Page.
 
