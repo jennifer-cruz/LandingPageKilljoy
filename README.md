@@ -1,6 +1,8 @@
 # LandingPageKilljoy
 
-Esse projeto foi criado para afins de estudar e entender como construir uma Lading Page.
+Esse projeto foi criado para estudos e entendimento em como construir uma Lading Page.
+
+Usei uma personagem que gosto bastante chamada KillJoy que está no jogo de FPS online criada pela empresa Riot Games.
 
 Ferramentas e linguagens trabalhadas:
 HTML e CSS.
